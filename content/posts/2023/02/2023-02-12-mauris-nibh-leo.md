@@ -4,7 +4,6 @@ draft: false
 date: 2023-02-12T10:21:30+02:00
 title: Les règles du télétravail
 description: Le télétravail, désormais ancré dans la réalité professionnelle, s'accompagne d'un cadre juridique visant à protéger les droits des travailleurs tout en permettant aux entreprises de bénéficier des avantages de cette modalité de travail.
-categories: Curabitur scelerisque
 posts_expertises:
   - droit-du-travail
 categories: Articles
