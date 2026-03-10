@@ -12,7 +12,7 @@ tags:
   - Stagiaire
   - Recrutement
 image:
-  src: /images/uploads/christina-wocintechchat-com-0zx1bdv5bny-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070948/christina-wocintechchat-com-0zx1bdv5bny-unsplash_lhgsyj.jpg
   credit: Photo de [Christina @ wocintechchat.com](https://unsplash.com/fr/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
   crop: smart
 ---
@@ -21,7 +21,7 @@ image:
 
 Sed eros nisl, **tempus eget tempor quis**, laoreet ac odio. Aenean tristique metus vitae mollis imperdiet. Nam sodales ut arcu at ullamcorper. Suspendisse sed dui sollicitudin, aliquet diam in, aliquam arcu. Vestibulum consequat sit amet est eleifend laoreet. Praesent tempor arcu ex, et elementum neque dictum venenatis. Suspendisse pretium lacinia nisl a sagittis. Aliquam nec orci sagittis massa eleifend consequat. Pellentesque semper urna tincidunt quam rutrum, ut molestie mauris viverra. Nam sagittis risus nibh, ultrices scelerisque felis vehicula eget. Proin massa enim, lobortis et vehicula non, maximus ut sem.
 
-{{< blockquote quote="Quisque blandit, enim ac accumsan sagittis, orci dolor sodales sapien, vitae molestie dolor" title="Léa Payet" text="Avocate" image="/images/uploads/christina-wocintechchat-com-s3grmiuhpnu-unsplash.jpg" >}}
+{{< blockquote quote="Quisque blandit, enim ac accumsan sagittis, orci dolor sodales sapien, vitae molestie dolor" title="Léa Payet" text="Avocate" image="https://res.cloudinary.com/uncinq/image/upload/v1773070949/christina-wocintechchat-com-s3grmiuhpnu-unsplash_vatk8z.jpg" >}}
 
 ## Sed _ultricies_ at nibh sed malesuada
 

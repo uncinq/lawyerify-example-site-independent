@@ -6,12 +6,12 @@ Edit `config/_default/module.yaml` to install the `lawyerify-example-site-indepe
 
 ```yml
 imports:
-  - path: github.com/hugolify/lawyerify-example-site-independent
+  - path: github.com/uncinq/lawyerify-example-site-independent
 ```
 
 ## Documentation
 
-https://github.com/hugolify/hugolify-template/wiki
+https://www.hugolify.io
 
 ## Licensing
 

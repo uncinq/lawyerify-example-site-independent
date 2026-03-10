@@ -8,11 +8,20 @@ module:
       target: data
 
 permalinks:
-  expertises: /competences/:slug/
-  posts: /journal/:year-:month-:day-:slug/
-  posts_expertises: /journal/expertises/:slug/
-  categories: /journal/categories/:slug/
-  tags: /journal/tags/:slug/
+  page:
+    expertises: /competences/:slug/
+    posts: /journal/:year-:month-:day-:slug/
+  section:
+    expertises: /competences/
+    posts: /journal/
+  taxonomy:
+    categories: /journal/categories/
+    posts_expertises: /journal/expertises/
+    tags: /journal/tags/
+  term:
+    categories: /journal/categories/:slug/
+    posts_expertises: /journal/expertises/:slug/
+    tags: /journal/tags/:slug/
 
 params:
   _merge: deep

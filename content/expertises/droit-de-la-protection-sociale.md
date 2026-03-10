@@ -3,7 +3,7 @@ isIndex: false
 title: Droit de la protection sociale
 description: Le droit de la protection sociale constitue un élément fondamental des systèmes juridiques modernes, visant à assurer la sécurité financière et le bien-être des individus face aux aléas de la vie. Cet ensemble de lois et de dispositifs vise à instaurer une solidarité sociale en offrant une protection contre les risques sociaux tels que la maladie, le chômage, la vieillesse, et l'invalidité. Plongeons dans l'importance et les aspects clés du droit de la protection sociale.
 image:
-  src: /images/uploads/mikhail-pavstyuk-eky2otrpxdw-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773076240/mikhail-pavstyuk-eky2otrpxdw-unsplash_cgukwc.jpg
   credit: Photo de [Mikhail Pavstyuk](https://unsplash.com/fr/@pavstyuk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 hero:
   surtitle: Cabinet Léa Payet

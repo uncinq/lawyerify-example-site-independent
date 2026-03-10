@@ -8,7 +8,7 @@ posts_expertises:
   - droit-du-travail
 categories: Articles
 image:
-  src: /images/uploads/viktor-bystrov-qd-zd2MoeE8-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773130456/viktor-bystrov-qd-zd2MoeE8-unsplash_n4n2nl.jpg
   credit: Photo de [Viktor Bystrov](https://unsplash.com/fr/@xokvictor?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
 

@@ -12,7 +12,7 @@ image:
   credit:
     Photo de [Christina @wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     sur [Unsplash](https://unsplash.com/fr/photos/S3GrMiUhpNU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  src: /images/uploads/christina-wocintechchat-com-s3grmiuhpnu-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773070949/christina-wocintechchat-com-s3grmiuhpnu-unsplash_vatk8z.jpg
 ---
 
 ## Consultation initiale gratuite

@@ -11,10 +11,10 @@ hero:
   text: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet
   image:
     credit: Photo de [Alesia Kaz](https://unsplash.com/fr/@alesiaskaz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") sur [Unsplash](https://unsplash.com/)
-    src: /images/uploads/alesia-kaz-VWcPlbHglYc-unsplash.jpg
+    src: https://res.cloudinary.com/uncinq/image/upload/v1773130301/alesia-kaz-VWcPlbHglYc-unsplash_syigno.jpg
 image:
   credit: Photo de [Alesia Kaz](https://unsplash.com/fr/@alesiaskaz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") sur [Unsplash](https://unsplash.com/)
-  src: /images/uploads/alesia-kaz-VWcPlbHglYc-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773130301/alesia-kaz-VWcPlbHglYc-unsplash_syigno.jpg
 blocks:
   - type: informations
     column: 4

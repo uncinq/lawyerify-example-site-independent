@@ -12,7 +12,7 @@ tags:
   - Négociation
   - Indemnités
 image:
-  src: /images/uploads/romain-dancre-doplSDELX7E-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773130406/romain-dancre-doplSDELX7E-unsplash_w4pqsp.jpg
   credit: Photo de [Romain Dancre](https://unsplash.com/fr/@romaindancre?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
 

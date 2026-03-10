@@ -1,3 +1,3 @@
-module github.com/hugolify/lawyerify-example-site-independent
+module github.com/uncinq/lawyerify-example-site-independent
 
-go 1.19
+go 1.21

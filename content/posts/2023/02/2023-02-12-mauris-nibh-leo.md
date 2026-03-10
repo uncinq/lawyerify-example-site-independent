@@ -13,7 +13,7 @@ tags:
   - Accord employeur
   - Santé et sécurité au travail
 image:
-  src: /images/uploads/christin-hume-Hcfwew744z4-unsplash.jpg
+  src: https://res.cloudinary.com/uncinq/image/upload/v1773130377/christin-hume-Hcfwew744z4-unsplash_br4qjx.jpg
   credit: Photo de [Christin Hume](https://unsplash.com/fr/@christinhumephoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [Unsplash](https://unsplash.com/)
 ---
 
