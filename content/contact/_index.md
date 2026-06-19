@@ -23,17 +23,17 @@ blocks:
       title: Nous sommes à votre écoute
     items:
       - title: Par téléphone
-        icon: telephone
+        icon: phone
         cta:
           text: +33 (0) 1 23 45 67 89
           url: tel:+33123456789
       - title: Par fax
-        icon: laptop
+        icon: printer
         cta:
           text: +33 (0) 1 23 45 67 89
           url: tel:+33123456789
       - title: Par e-mail
-        icon: envelope-at
+        icon: mail
         cta:
           text: contact@lawyerify.io
           url: mailto:contact@lawyerify.io

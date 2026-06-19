@@ -22,11 +22,3 @@ permalinks:
     categories: /journal/categories/:slug/
     posts_expertises: /journal/expertises/:slug/
     tags: /journal/tags/:slug/
-
-params:
-  _merge: deep
-  expertises:
-    _merge: deep
-    thumbnail:
-      _merge: deep
-      desktop: '636x273'
